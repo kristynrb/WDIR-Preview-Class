@@ -209,9 +209,7 @@ When an element is being styled by two rules at the same time, the browser calcu
 
 
 ## Describe Specificity
-1. Create `div` with the id of `blue`
 1. Create a rule for the tag with an id of `blue`. Set the text color for this rule to blue
-1. On the next line of your css file, create a rule for all tags with classes of `red`
-1. Set the text color for this rule to red
+1. On the next line of your css file, create a rule for all tags with classes of `red`. Set the text color for this rule to red
 1. In your HTML, create a `span` tag with both an id of `blue` and a class of `red`
 1. Note that the color of the `span` tag should be blue
