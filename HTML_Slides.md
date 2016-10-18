@@ -1,3 +1,19 @@
+![ga](http://mobbook.generalassemb.ly/ga_cog.png)
+
+# WDIR
+
+---
+Title: HTML Slides for WDIR Preview Class <br>
+Original creator: Matt Huntington <br>
+Modified by: Kristyn Bryan <br>
+Type: Slides and exercise <br>
+Duration: 1 hour <br>
+Course: WDIR<br>
+Competencies: HTML<br>
+Prerequisites: None
+
+---
+
 # HTML - Tags, Content, Attributes, & Semantic HTML
 
 ## Lesson Objectives
