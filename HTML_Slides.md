@@ -150,6 +150,10 @@ We can add more meaning to a tag by adding "attributes" to it.  The looks like `
 The most important thing to remember is that these tags and attributes are supposed to give structure and meaning your content, not appearance.  Sometimes you might want the title of the page to be smaller than the titles of the sub sections.  You should still use the tag that conveys the proper meaning, even if it doesn't look right.
 
 # Activities
+## Create a file
+1. Open Atom (or Sublime)
+2. Go to File > New File
+3. Name this file `index.html`
 
 ## Initializing a page
 1. Set up a basic html page with `DOCTYPE`, `html`, `head`, and `body` tags.
