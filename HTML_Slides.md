@@ -153,12 +153,12 @@ The most important thing to remember is that these tags and attributes are suppo
 
 ## Initializing a page
 1. Set up a basic html page with `DOCTYPE`, `html`, `head`, and `body` tags.
-1. Add some content to the page
-1. Hit the run button
-1. Click the link in the console and chose open to view the page
+1. Add the largest heading tag and write your name in between the tag.
+1. Save your file.
+1. Open Chrome (or a web browser) and then open your html file inside the browser. You can do this by either dragging it from your finder into the browser page OR go to File > Open File > and then navigate to your .html file. Note: this is not how developers normally open their files, but we have limited time here!
 
 ## basic tags
-1. Pretend you are preparing an paper with title, headings, and sub headings
+1. Pretend you are preparing a news article with title, headings, and sub headings (can't think of content? Write about one day when you were traveling. Think of mini trips that you took, places that you visited, food that you ate).
 1. Add the relevant heading tags
 1. Add some fake content as if they were paragraphs
 
