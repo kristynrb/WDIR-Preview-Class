@@ -176,39 +176,41 @@ When an element is being styled by two rules at the same time, the browser calcu
 
 # Activities
 
+## Create a file
+1. Open Atom (or Sublime)
+2. Go to File > New File
+3. Name this file `style.css`
+4. Let's link our HTML and CSS sheets together! Inside your HTML file, include the following tag inside the HEAD of your file:
+`<link rel="stylesheet" type="text/css" href="style.css">`
+
 ## List some common element properties that can be styled
-1. Create an html page with a `p` tag and some placeholder text
 1. Change its text color to a hex value that you choose from http://color.adobe.com
 1. Give it a background color
-1. Make the size of the text larger
+1. Make the size of the paragraph text larger
 1. Change its font family to a sans-serif font
-1. Make the text bold
-1. Center the text
+1. Make some of the text bold
+1. Center all of the text
 
 ## Describe ids and classes. Explain when should we use which.
-1. Add two more `p` tags.
-1. Give one `p` tag an id
-1. Give the other two `p` tags the same class
+1. Give each of your `p` tag a unique id (think about a word that can be used to describe that paragraph)
+1. Give all of the `p` tags the same class
 1. Use just the ids and classes to style `p` tag with the id differently from the ones with a class
 
 ## Describe "The Cascade"
-1. Create a `p` tag within a `section` tag
-1. Put some text in the `section` tag, but outside the `p` tag
-1. Put some text in the `p` tag
-1. Style just the `section` tag to give its text some color
-1. Note that the `p` tag has also been affected
+1. Create a `section` tag inside your first `p` tag to surround half of your first sentence.
+1. Style just the `section` tag to give its text some color.
 
 ## Describe how to combine various selectors
-1. Create a rule for all `p` tags that also have a class of `active`
-1. For this rule, make the text bold
-1. Add an `active` class to a few of your p tags
+1. Add the class `active` to two of your `p`tags.
+1. Create a rule for all `p` tags that also have a class of `active`. For this rule, make the text bold
+1. Create a `div` tag with the class of `active` and add some content.
 1. Create a rule for all `div` tags that also have a class of `active`
 1. For this rule, make the text very large
-1. Create a `div` tag with the class of `active`
+
 
 ## Describe Specificity
-1. Create a rule for the tag with an id of `blue`
-1. Set the text color for this rule to blue
+1. Create `div` with the id of `blue`
+1. Create a rule for the tag with an id of `blue`. Set the text color for this rule to blue
 1. On the next line of your css file, create a rule for all tags with classes of `red`
 1. Set the text color for this rule to red
 1. In your HTML, create a `span` tag with both an id of `blue` and a class of `red`
