@@ -1,3 +1,18 @@
+![ga](http://mobbook.generalassemb.ly/ga_cog.png)
+
+# WDIR
+
+---
+Title: CSS Slides for WDIR Preview Class <br>
+Original creator: Matt Huntington <br>
+Modified by: Kristyn Bryan <br>
+Type: Slides and exercise <br>
+Duration: 1 hour <br>
+Course: WDIR<br>
+Competencies: CSS<br>
+Prerequisites: HTML
+
+---
 # CSS - An Introduction
 
 ## Lesson Objectives
