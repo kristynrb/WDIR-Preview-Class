@@ -1,4 +1,4 @@
-# WEB DEVELOPMENT IMMERSIVE REMOTE PREVIEW CLASS: HTML & CSS (ONLINE)
+# Web Development Immersive Remote Preview Class: HTML & CSS (Online) 
 
 ## About this class
 
