@@ -197,8 +197,11 @@ When an element is being styled by two rules at the same time, the browser calcu
 1. Use just the ids and classes to style `p` tag with the id differently from the ones with a class
 
 ## Describe "The Cascade"
-1. Create a `section` tag inside your first `p` tag to surround half of your first sentence.
-1. Style just the `section` tag to give its text some color.
+1. Create a `p` tag within a `section` tag
+1. Put some text in the `section` tag, but outside the `p` tag
+1. Put some text in the `p` tag
+1. Style just the `section` tag to give its text some color
+1. Note that the `p` tag has also been affected
 
 ## Describe how to combine various selectors
 1. Add the class `active` to two of your `p`tags.
