@@ -8,10 +8,10 @@ Learn more about our Web Development Immersive Remote!
 
 ## Takeaways
 
-Basics of the internet and how webpages work.
-Learn about the basics of HTML and CSS including semantics and basic tags.
-Learn about the tools that developers use such as Github and Sublime text.
-Explore the best places to get started as a web developer.
+- Basics of the internet and how webpages work.
+- Learn about the basics of HTML and CSS including semantics and basic tags.
+- Learn about the tools that developers use such as Github and Sublime text.
+- Explore the best places to get started as a web developer.
 
 ## Prereqs & Preparation
 
